@@ -13,7 +13,8 @@ This project implements Gussian Mixture Model and it's expectaition maximization
 [src: https://medium.com/@SeoJaeDuk/archived-post-multivariate-gaussian-distributions-and-entropy-3-991578ca534c]  
 
 
-### Correlation Matrix (Wine Quality Dataset)
+### Correlation Matrix (Wine Quality Dataset)  
+Strong correlation implies higher effect on output feature. Selecting the best correlation features gives more accurate and generalized clustering output
 ![corr](./images/data3_corr.png)  
 
 ### Histograms of individual feature vectors
