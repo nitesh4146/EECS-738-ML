@@ -3,3 +3,4 @@
 ### Date          : 03/01/2021
 
 
+![GMM](./images/gmm.png)
