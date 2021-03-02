@@ -4,4 +4,13 @@
 
 
 ![GMM](./images/gmm.png)  
-[src: https://medium.com/@SeoJaeDuk/archived-post-multivariate-gaussian-distributions-and-entropy-3-991578ca534c]
+[src: https://medium.com/@SeoJaeDuk/archived-post-multivariate-gaussian-distributions-and-entropy-3-991578ca534c]  
+
+
+![corr](./images/data3_corr.png)  
+
+![hist](./images/data3_hist.png)  
+
+![log](./images/data1_loglike.png)  
+
+![predict](./images/data2_pred.png)  
