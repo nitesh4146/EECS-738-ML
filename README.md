@@ -1,1 +1,1 @@
-# EECS-738_ML
+# EECS-738 Machine Learning
