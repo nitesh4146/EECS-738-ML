@@ -4,3 +4,4 @@
 
 
 ![GMM](./images/gmm.png)
+[src: https://medium.com/@SeoJaeDuk/archived-post-multivariate-gaussian-distributions-and-entropy-3-991578ca534c]
