@@ -6,7 +6,7 @@
 ## Gussian Mixture Model
 This project implements Gussian Mixture Model and it's expectaition maximization algorithm. We further dive deeper into three different dataset from [UCI ML dataset](https://archive.ics.uci.edu/ml/datasets.php), namely,  
 [1] Iris
-[2] Wisconsin Diagnostic Breast Cancer¶
+[2] Wisconsin Diagnostic Breast Cancer
 [3] Wine Quality
 
 ![GMM](./images/gmm.png)  
