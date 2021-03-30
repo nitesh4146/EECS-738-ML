@@ -1,4 +1,6 @@
 ## An Implementation of Hidden Markov Model for Text Prediction and Generation
+Author:       Nitish Gupta
+Date Created: 03/29/2021
 
 ### DataSet: Shakespeare Plays (https://www.kaggle.com/kingburrito666/shakespeare-plays)
 
